@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 ### Current Status 💻
 
-<a href="https://github.com/Ma-Yuyao?tab=repositories">
+<!-- <a href="https://github.com/Ma-Yuyao?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yuyao&hide_langs_below=1&theme=onedark" />
-</a>
+</a> -->
 
 <a href="https://github.com/Ma-Yuyao?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ma-Yuyao&show_icons=true&line_height=40&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Yuyao's github stats"/>
 </a>
 
 
-<!--
-[![Ma-Yuyao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ma-Yuyao&count_private=true&show_icons=true&theme=vue)](https://github.com/Ma-Yuyao)
+<!-- [![Ma-Yuyao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ma-Yuyao&count_private=true&show_icons=true&theme=vue)](https://github.com/Ma-Yuyao) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yuyao&layout=compact)](https://github.com/Ma-Yuyao)
--->
+
