@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hey, my name is Yuyao!
+- 🌱 I’m currently studying for a master’s degree (Software Enginnerring) in Unimelb.
 
 <!--
 **Ma-Yuyao/Ma-Yuyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
