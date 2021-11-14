@@ -1,7 +1,17 @@
-### Hi there 👋
+# Hello World 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ma-yuyao/count.svg" />
+</p>
+
+### About me
+
 Hey, my name is Yuyao!
 
-🌱 I’m currently studying for a master’s degree (Software Engineering) in Unimelb.
+🌱 I’m currently studying for a master’s degree (Software Engineering) in [Unimelb](https://www.unimelb.edu.au/).
+
+⚡ You can find more interesting fact on my [blog](https://hellocode.ink/).
 
 <!--
 **Ma-Yuyao/Ma-Yuyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Current Status 💻
+<!-- ### Current status 💻
 
 <a href="https://github.com/Ma-Yuyao?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yuyao&hide_langs_below=1&theme=onedark" />
@@ -31,4 +41,3 @@ Here are some ideas to get you started:
 <!-- [![Ma-Yuyao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ma-Yuyao&count_private=true&show_icons=true&theme=vue)](https://github.com/Ma-Yuyao) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-Yuyao&layout=compact)](https://github.com/Ma-Yuyao) -->
-
